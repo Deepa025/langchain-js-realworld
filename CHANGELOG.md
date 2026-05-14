@@ -17,3 +17,4 @@
 - chore: fix a small wording issue
 - fix: fix a small wording issue
 - fix: link the usage section
+- fix: fix a small wording issue
